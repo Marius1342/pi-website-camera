@@ -1,0 +1,14 @@
+{
+  "name": "pi-website-camera",
+  "version": "0.0.0",
+  "description": "Stream the picture from the pi-cam but with low fps",
+  "main": "app.js",
+  "author": {
+    "name": "Marius"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "pi-camera": "^1.6.0",
+    "socket.io": "^4.4.1"
+  }
+}
