@@ -4,7 +4,7 @@
   "description": "Stream the picture from the pi-cam but with low fps",
   "main": "app.js",
   "author": {
-    "name": "Marius"
+    "name": "Marius Knies"
   },
   "dependencies": {
     "express": "^4.17.2",
